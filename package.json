@@ -38,9 +38,6 @@
       "pre-push": "npm run test"
     }
   },
-  "peerDependencies": {
-    "eslint": "^3 || ^4 || ^5 || ^6"
-  },
   "devDependencies": {
     "babel-eslint": "^8.2.6",
     "eslint": "^6.6.0",
